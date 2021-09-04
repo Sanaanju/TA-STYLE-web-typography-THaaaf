@@ -1,0 +1,36 @@
+body {
+    font-size: 22px;
+    padding: 32px;
+    background-color:  black;
+    line-height: 1.5;
+}
+@font-face {
+    font-family: "Open Sans Bold";
+    src: url(font/OpenSans-bold.ttf);
+}
+h1, h2 {
+    font-family: "Open Sans Bold";
+    font-size: 68px;
+    color: white;
+}
+h3 {
+   font-size: 30px;
+   color: red;
+    
+}
+p  {
+    color: wheat;
+    font-weight: lighter;
+    
+}
+h4 {
+    color: lightgrey;
+    font-size: 26px;
+    text-align: right;
+    font-weight: lighter;
+
+
+}
+
+
+
